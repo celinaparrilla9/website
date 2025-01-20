@@ -28,6 +28,8 @@
             padding: 20px 50px;
             background-color: rgba(0,0,0,0.5);
             position: fixed; /* Añadido */
+            left: 0; /* Añadido */
+            right: 0; /* Añadido */
         }
 
         .logo {
